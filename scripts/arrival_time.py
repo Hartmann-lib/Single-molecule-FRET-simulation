@@ -1,5 +1,7 @@
 import numpy as np
 
+# 15.09.2021 | Andreas Hartmann
+
 def DonorOnly(nD0, nA_D0, TB):
     """
     Photon trajectory of a donor only molecule
