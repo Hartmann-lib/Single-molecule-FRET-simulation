@@ -7,7 +7,7 @@ def density_estimator_2D(x, y, tau = 0.05):
     density estimator around an individual (x,y) coordinate using a kernel density estimator (KDE) as described by 
     Tomov et al., Biophysical Journal (2012)
 
-    x,y = array of events for desnity calculation
+    x,y = array of events for density calculation
     tau = 1/e decay length of the kernel
 
     return density array len(x)
