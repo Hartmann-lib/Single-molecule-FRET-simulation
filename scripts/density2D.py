@@ -1,5 +1,7 @@
 import numpy as np
 
+# 15.09.2021 | Andreas Hartmann
+
 def density_estimator_2D(x, y, tau = 0.05):
     """
     density estimator around an individual (x,y) coordinate using a kernel density estimator (KDE) as described by 
