@@ -44,6 +44,7 @@ BG_RR = 5 # (kHz) background in RR channel
 fD0 = 0.2 # donor only fraction
 fA0 = 0.2 # acceptor only fraction
 fE = 1 - fD0 - fA0 # FRET (double labeled) fraction
+# !!! fractions have to sum up to 1 -> fD0 + fA0 + fE = 1
 
 # bleaching times
 tbleachD = 4 # (ms) bleaching time of the donor (exponentially distributed)
