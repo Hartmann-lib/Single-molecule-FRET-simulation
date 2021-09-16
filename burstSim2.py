@@ -18,7 +18,7 @@ Bleaching of the acceptor and donor as well as multiple molecules are also avail
 strOut = 'Simulation_E0p2_E0p8'
 
 E = 0.5 # FRET efficiency -> if multiple FRET efficiencies the number of molecules is numIter*len(E)
-TB = 0.75 # average burst duration (exponentially distributed)
+TB = 0.75 # (ms) average burst duration (exponentially distributed)
 minN = 50 # lower threshold -> minimum number of photons per burst
 
 phiD = 0.9 # quantum yield donor
