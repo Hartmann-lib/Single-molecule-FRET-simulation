@@ -15,7 +15,7 @@ Bleaching of the acceptor and donor as well as multiple molecules are also avail
 # parameters
 #########################################################################################################################
 # output filename
-strOut = 'data\Simulation_E0p5'
+strOut = 'Simulation_E0p5'
 
 E = [0.2, 0.8] # FRET efficiency -> if multiple FRET efficiencies the number of molecules is numIter*len(E)
 TB = 0.75 # (ms) average burst duration (exponentially distributed)
