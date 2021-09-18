@@ -302,7 +302,7 @@ if boolShowDensity == 1:
     densityES = density_estimator_2D(all_arrE[all_boolSelect==1], all_arrS[all_boolSelect==1], 0.05)
 else:
     all_densityES = np.ones(len(all_arrE))
-    all_densityES = np.ones(len(all_arrE[all_boolSelect==1]))
+    densityES = np.ones(len(all_arrE[all_boolSelect==1]))
 
 # plotting results
 plt.figure(figsize=(12, 9))
