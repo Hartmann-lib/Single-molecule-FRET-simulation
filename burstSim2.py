@@ -5,9 +5,9 @@ from scripts.density2D import density_estimator_2D
 
 """
 Simulation of fluorescence bursts of FRET labeled (donor and acceptor) molecules excited by pulsed interleaved excitation (PIE)
-The simulation mimics a single FRET population and can be fed with a certain ratio of single and double labeled molecules
-It also accounts for differences in quantum yield, detection efficiency; direct excitation of the acceptor; spectral crosstalk of the donor and fluorescence background
-Bleaching of the acceptor and donor as well as multiple molecules are also available
+The simulation mimics a single(multiple) FRET population(s) and can be fed with a certain ratio of single and double labeled molecules
+It also accounts for differences in quantum yield, detection efficiency; direct excitation of the acceptor; spectral crosstalk of the donor and fluorescence background;
+bleaching of the acceptor and donor as well as multiple molecules
 
 18.09.2021 | Andreas Hartmann
 """
