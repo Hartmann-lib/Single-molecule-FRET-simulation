@@ -13,5 +13,4 @@ You can find the parameter section commented in the main file 'burstSim2.py'.
 Have fun!
 
 Andreas
-
 ![Figure_output](https://user-images.githubusercontent.com/58071484/133894367-e61d6f68-8f42-422e-98e2-19d883f5dcf3.png)
