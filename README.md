@@ -1,4 +1,4 @@
-# Single-molecule_FRET_simulation
+# Single-molecule FRET simulation
 
 In single-molecule FRET confocal microscopy, we monitor conformational changes of biomolecules by the intensity ratio of donor and acceptor fluorescence.
 FRET is a powerful and widely spread tool, which allows the observation of intra-molecular distance changes in the range of 2 to 10 nanometer with high time resolution. 
